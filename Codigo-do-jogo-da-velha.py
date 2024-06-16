@@ -4,7 +4,7 @@ jogadorX = "X"
 jogadorO = "O"
 
 def jogar():
-    print('O jogador X começa')
+    print('O jogador X começa!')
     while(True):
         inserirLinhaColuna(jogadorX)
 

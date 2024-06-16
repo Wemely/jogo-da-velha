@@ -1,2 +1,2 @@
 # jogo-da-velha
-Esse e o codigo de como fazer um jogoda velha em python 
+Esse é um codigo de como fazer um jogo da velha em limguagem python 
